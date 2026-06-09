@@ -1,9 +1,12 @@
 [submodule "matt-skills"]
 	path = matt-skills
 	url = https://github.com/mattpocock/skills
+	branch = main
 [submodule "claude-ads"]
 	path = claude-ads
 	url = https://github.com/AgriciDaniel/claude-ads
+	branch = main
 [submodule "repo-analyzer"]
 	path = repo-analyzer
 	url = https://github.com/ParkSnoopy/repo-analyzer
+	branch = main
