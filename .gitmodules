@@ -10,3 +10,7 @@
 	path = repo-analyzer
 	url = https://github.com/ParkSnoopy/repo-analyzer
 	branch = main
+[submodule "caveman"]
+	path = caveman
+	url = https://github.com/JuliusBrussee/caveman
+	branch = main
