@@ -14,3 +14,7 @@
 	path = caveman
 	url = https://github.com/JuliusBrussee/caveman
 	branch = main
+[submodule "bevy-skills"]
+	path = bevy-skills
+	url = https://github.com/chrisgliddon/bevy-skills
+	branch = main
