@@ -16,5 +16,5 @@
 	branch = main
 [submodule "bevy-skills"]
 	path = bevy-skills
-	url = https://github.com/chrisgliddon/bevy-skills
+	url = https://github.com/ParkSnoopy/bevy-skills
 	branch = main
