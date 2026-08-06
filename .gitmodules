@@ -18,3 +18,6 @@
 	path = bevy-skills
 	url = https://github.com/ParkSnoopy/bevy-skills
 	branch = main
+[submodule "baoyu-skills"]
+	path = baoyu-skills
+	url = https://github.com/ParkSnoopy/baoyu-skills
