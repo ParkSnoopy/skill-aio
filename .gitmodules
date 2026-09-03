@@ -1,7 +1,24 @@
+# Level 1 Skills
 [submodule "matt-skills"]
 	path = matt-skills
 	url = https://github.com/mattpocock/skills
 	branch = main
+[submodule "caveman"]
+	path = caveman
+	url = https://github.com/ParkSnoopy/caveman
+	branch = main
+[submodule "ponytail"]
+	path = ponytail
+	url = https://github.com/ParkSnoopy/ponytail
+	branch = main
+
+# Level 2 Skills
+[submodule "bevy-skills"]
+	path = bevy-skills
+	url = https://github.com/ParkSnoopy/bevy-skills
+	branch = main
+
+# Level 3 Skills
 [submodule "claude-ads"]
 	path = claude-ads
 	url = https://github.com/AgriciDaniel/claude-ads
@@ -10,14 +27,7 @@
 	path = repo-analyzer
 	url = https://github.com/ParkSnoopy/repo-analyzer
 	branch = main
-[submodule "caveman"]
-	path = caveman
-	url = https://github.com/JuliusBrussee/caveman
-	branch = main
-[submodule "bevy-skills"]
-	path = bevy-skills
-	url = https://github.com/ParkSnoopy/bevy-skills
-	branch = main
 [submodule "baoyu-skills"]
 	path = baoyu-skills
 	url = https://github.com/ParkSnoopy/baoyu-skills
+	branch = main
