@@ -17,9 +17,25 @@
 	path = bevy-skills
 	url = https://github.com/ParkSnoopy/bevy-skills
 	branch = main
+[submodule "academic-research-skills"]
+	path = academic-research-skills
+	url = https://github.com/ParkSnoopy/academic-research-skills
+	branch = main
+[submodule "archify"]
+	path = archify
+	url = https://github.com/ParkSnoopy/archify
+	branch = main
+[submodule "ECC"]
+	path = ECC
+	url = https://github.com/ParkSnoopy/ECC
+	branch = main
 
 # Level 3 Skills
 [submodule "baoyu-skills"]
 	path = baoyu-skills
 	url = https://github.com/ParkSnoopy/baoyu-skills
+	branch = main
+[submodule "marketingskills"]
+	path = marketingskills
+	url = https://github.com/ParkSnoopy/marketingskills
 	branch = main
