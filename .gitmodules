@@ -19,14 +19,6 @@
 	branch = main
 
 # Level 3 Skills
-[submodule "claude-ads"]
-	path = claude-ads
-	url = https://github.com/AgriciDaniel/claude-ads
-	branch = main
-[submodule "repo-analyzer"]
-	path = repo-analyzer
-	url = https://github.com/ParkSnoopy/repo-analyzer
-	branch = main
 [submodule "baoyu-skills"]
 	path = baoyu-skills
 	url = https://github.com/ParkSnoopy/baoyu-skills
