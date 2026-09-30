@@ -39,3 +39,7 @@
 	path = ECC
 	url = https://github.com/ParkSnoopy/ECC
 	branch = main
+[submodule "asd-ste100-skill"]
+	path = asd-ste100-skill
+	url = https://github.com/danyuchn/asd-ste100-skill
+	branch = master
