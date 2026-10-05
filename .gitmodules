@@ -43,7 +43,3 @@
 	path = asd-ste100-skill
 	url = https://github.com/danyuchn/asd-ste100-skill
 	branch = master
-[submodule "andrej-karpathy-skills"]
-	path = andrej-karpathy-skills
-	url = https://github.com/multica-ai/andrej-karpathy-skills
-	branch = main
