@@ -1,8 +1,4 @@
 # Level 1 Skills
-[submodule "matt-skills"]
-	path = matt-skills
-	url = https://github.com/mattpocock/skills
-	branch = main
 [submodule "caveman"]
 	path = caveman
 	url = https://github.com/ParkSnoopy/caveman
@@ -11,12 +7,34 @@
 	path = ponytail
 	url = https://github.com/ParkSnoopy/ponytail
 	branch = main
+[submodule "asd-ste100-skill"]
+	path = asd-ste100-skill
+	url = https://github.com/danyuchn/asd-ste100-skill
+	branch = master
+[submodule "andrej-karpathy-skills"]
+	path = andrej-karpathy-skills
+	url = https://github.com/multica-ai/andrej-karpathy-skills
+	branch = main
 
 # Level 2 Skills
+[submodule "ECC"]
+	path = ECC
+	url = https://github.com/ParkSnoopy/ECC
+	branch = main
+[submodule "rust-skills"]
+	path = rust-skills
+	url = https://github.com/leonardomso/rust-skills
+	branch = master
+[submodule "matt-skills"]
+	path = matt-skills
+	url = https://github.com/mattpocock/skills
+	branch = main
 [submodule "bevy-skills"]
 	path = bevy-skills
 	url = https://github.com/ParkSnoopy/bevy-skills
 	branch = main
+
+# Level 3 Skills
 [submodule "hyperframes"]
 	path = hyperframes
 	url = https://github.com/ParkSnoopy/hyperframes
@@ -25,8 +43,6 @@
 	path = academic-research-skills
 	url = https://github.com/ParkSnoopy/academic-research-skills
 	branch = main
-
-# Level 3 Skills
 [submodule "marketingskills"]
 	path = marketingskills
 	url = https://github.com/ParkSnoopy/marketingskills
@@ -35,11 +51,3 @@
 	path = archify
 	url = https://github.com/ParkSnoopy/archify
 	branch = main
-[submodule "ECC"]
-	path = ECC
-	url = https://github.com/ParkSnoopy/ECC
-	branch = main
-[submodule "asd-ste100-skill"]
-	path = asd-ste100-skill
-	url = https://github.com/danyuchn/asd-ste100-skill
-	branch = master
