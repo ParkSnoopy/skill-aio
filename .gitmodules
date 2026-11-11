@@ -43,11 +43,6 @@
 	update = merge
 
 # Level 3 Skills
-[submodule "hyperframes"]
-	path = hyperframes
-	url = https://github.com/ParkSnoopy/hyperframes
-	branch = main
-	update = merge
 [submodule "academic-research-skills"]
 	path = academic-research-skills
 	url = https://github.com/ParkSnoopy/academic-research-skills
