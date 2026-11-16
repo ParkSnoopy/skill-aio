@@ -27,7 +27,7 @@
 	branch = main
 [submodule "matt-skills"]
 	path = matt-skills
-	url = https://github.com/ParkSnoopy/skills
+	url = https://github.com/ParkSnoopy/matt-skills
 	branch = main
 [submodule "bevy-skills"]
 	path = bevy-skills
