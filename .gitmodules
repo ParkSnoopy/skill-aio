@@ -41,6 +41,11 @@
 	url = https://github.com/ParkSnoopy/bevy-skills
 	branch = main
 	update = merge
+[submodule "humanize-kr"]
+	path = humanize-kr
+	url = https://github.com/ParkSnoopy/humanize-kr
+	branch = main
+	update = merge
 
 # Level 3 Skills
 [submodule "academic-research-skills"]
