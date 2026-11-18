@@ -21,6 +21,10 @@
 	path = ECC
 	url = https://github.com/ParkSnoopy/ECC
 	branch = main
+[submodule "pstack"]
+	path = pstack
+	url = https://github.com/ParkSnoopy/pstack
+	branch = main
 [submodule "rust-skills"]
 	path = rust-skills
 	url = https://github.com/ParkSnoopy/rust-skills
@@ -42,10 +46,6 @@
 [submodule "academic-research-skills"]
 	path = academic-research-skills
 	url = https://github.com/ParkSnoopy/academic-research-skills
-	branch = main
-[submodule "marketingskills"]
-	path = marketingskills
-	url = https://github.com/ParkSnoopy/marketingskills
 	branch = main
 [submodule "archify"]
 	path = archify
